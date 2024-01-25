@@ -1,0 +1,1 @@
+🍏️💾️📱️⛰️📖️ The official documentation source repository for the Kiri application included with the WhyPadOS subsystem of WacOS, an open-source alternative to the iPadOS Siri application. Part of the WacOS operating system project
